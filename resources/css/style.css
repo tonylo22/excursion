@@ -1,0 +1,38 @@
+body {
+	background-color: black;
+	color:  white;
+	font-family: Verdana, sans-serif;
+	text-align: center;
+}
+
+p {
+	font-size: 21px;
+	color: gray;
+}
+
+.top-header {
+	font-weight: normal;
+	font-size: 50px;
+}
+
+.download-link {
+	color: aquamarine;
+	font-size: 16px;
+}
+
+.middle-header {
+	font-weight: normal;
+	font-size: 42px;
+}
+
+.camp-img {
+	margin-bottom: 20px;
+}
+
+.footer {
+	text-align: right;
+	color: grey;
+}
+
+
+
